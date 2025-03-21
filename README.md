@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @natnaelAbebaw
-- 👀 I’m interested in software development, fullstack development and mobile development.
-- 🌱 I’m currently learning threejs(3d rendering).
-- 💞️ I’m looking to collaborate on nodejs, react and flutter projects.
+- 👀 fullstack and game developer,
+- 🌱 I’m currently learning unity and threejs(3d rendering) and blockchain.
 - 📫 How to reach me (natnaell70a@gmail.com)
 - 😄 Pronouns: natty;
 <!---
