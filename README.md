@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Natnael Abebaw
-- 👀 fullstack and game developer,
+- 👀 Fullstack and game developer,
 - 🌱 I’m currently learning unity and threejs(3d rendering) and blockchain.
 - 📫 How to reach me (natnaell70a@gmail.com)
 <!---
